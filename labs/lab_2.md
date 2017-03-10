@@ -2,7 +2,7 @@
 ## Create Chef Cookbook using chef generate
 Allotted Time: 20 minutes
 
-In this activity, you will generate a sample cookbook using the chef generate command. This will be a quick review for many, the essentials to generate the cookbook, create a kitchen.docker.yml file and converge the node. This will verify that you know the essentials for creating and converging on your system and that everything is working correctly. 
+In this activity, you will generate a sample cookbook using the chef generate command. You will generate the cookbook, create a kitchen.docker.yml file and converge the node. This will verify that you know the essentials for creating and converging on your system and that everything is working correctly. 
 
 Create cookbook and an install_apache recipe.
 
