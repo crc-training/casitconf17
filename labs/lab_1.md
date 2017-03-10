@@ -183,20 +183,20 @@ In a web browser, after logging into Github, you'll see an option to create a "N
 
 Click on New Repository:
 
-![Once logged in, click New repository](images/assign_1/1-click_new_repo.png "Once logged in, click New repository")
+![Once logged in, click New repository](images/1-click_new_repo.png "Once logged in, click New repository")
 
 In the repository name field, enter `ed-lab1` and click the Initilize README option.: 
 
-![In the Repository name field, ed-lab1](images/assign_1/2-name_ed-lab1.png "In the Repository name field, ed-lab1 ")
-![Make sure to click the Initilize README](images/assign_1/3-init_with_readme.png "Make sure to click the Initilize README")
+![In the Repository name field, ed-lab1](images/2-name_ed-lab1.png "In the Repository name field, ed-lab1 ")
+![Make sure to click the Initilize README](images/3-init_with_readme.png "Make sure to click the Initilize README")
 
 Once you have created the repo, you will see a screen like this:
 
-![After clicking Create Repo](images/assign_1/4-after_create_repo.png "After clicking Create Repo")
+![After clicking Create Repo](images/4-after_create_repo.png "After clicking Create Repo")
 
 On the lower right you will see the clone url. You can leave it with https and enter your credentials each time, or you can switch to ssh by clicking on SSH if you've set up your ssh keys.
 
-![Click on SSH and grab the SSH clone url](images/assign_1/5-change_to_ssh_clone_url.png "Click on SSH and grab the SSH clone url")
+![Click on SSH and grab the SSH clone url](images/5-change_to_ssh_clone_url.png "Click on SSH and grab the SSH clone url")
 
 ## Clone new repo to node
 
