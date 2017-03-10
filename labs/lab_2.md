@@ -41,8 +41,13 @@ include_recipe 'apache::install_apache'
 
 ```
 
+
 Create a `.kitchen.docker.yml` to match the following configuration. 
 
+```
+$ cd ~/wd/apache
+$ EDITOR ~/wd/apache/.kitchen.docker.yml
+```
 
 ```
 ---
