@@ -108,8 +108,8 @@ Hi sparklydevops! You've successfully authenticated, but GitHub does not provide
 ```
 
 
-![Commiting to my branch](images/lab_1_fork.png "GUI shows availability to click on pull request.")
-![Creating a pull request](images/lab_1_pull_request.png "Leave a comment and create pull request")
+![Commiting to my branch](images/lab_0_fork.png "GUI shows availability to click on pull request.")
+![Creating a pull request](images/lab_0_pull_request.png "Leave a comment and create pull request")
 
 ## Join the Chef Community Slacks
 
